@@ -1,0 +1,2 @@
+# Trading-Jornal
+my jornal
